@@ -6,6 +6,7 @@
         in the "<?= $this->context->module->id ?>" module.
     </p>
     <p>
+        YES!
         You may customize this page by editing the following file:<br>
         <code><?= __FILE__ ?></code>
     </p>

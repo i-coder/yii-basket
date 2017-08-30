@@ -13,12 +13,12 @@ Either run
 php composer.phar require --prefer-dist coder.ept/yii2-basket "*"
 ```
 
-or add
-
 ```
 "coder.ept/yii2-basket": "*"
 ```
-
+```
+php yii migrate --migrationPath=@app/vendor/coder.ept/yii2-basket/migrations create_table_order
+```
 to the require section of your `composer.json` file.
 
 
