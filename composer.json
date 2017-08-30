@@ -1,0 +1,27 @@
+{
+    "name": "coder.ept/yii2-basket",
+    "description": "Basket test modul",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","basket"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "coder.ept",
+            "email": "coder.ept@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "coderept\\basket\\": ""
+        }
+    },
+    "repositories":[
+    {
+        "type": "git",
+        "url": "https://bitbucket.org/coder_ept/yii-basket.git"
+    }
+]
+}
