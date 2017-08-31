@@ -3,9 +3,6 @@
 use yii\helpers\Html;
 use yii\widgets\ActiveForm;
 
-/* @var $this yii\web\View */
-/* @var $model common\models\News */
-/* @var $form yii\widgets\ActiveForm */
 ?>
 
 <div class="news-form">
