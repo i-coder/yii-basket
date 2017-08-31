@@ -10,9 +10,6 @@
             "email": "coder.ept@gmail.com"
         }
     ],
-    "require": {
-//        "yiisoft/yii2": "*"
-    },
     "autoload": {
         "psr-4": {
             "coderept\\basket\\": ""
